@@ -1,0 +1,77 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+ 
+    
+       
+    }
+      
+    /* Smartphones (landscape) ----------- */
+     
+    @media only screen and (min-width : 321px) {
+     
+    /* CSS KODLARI BURAYA */
+    }
+    /* Smartphones (portrait) ----------- */
+     
+    @media only screen and (max-width : 320px) {
+     
+     
+    /* CSS KODLARI BURAYA */
+     
+    }
+    /* iPads (portrait and landscape) ----------- */
+     
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    /* CSS KODLARI BURAYA */
+     
+    }
+     
+    /* iPads (landscape) ----------- */
+     
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+     
+    /* CSS KODLARI BURAYA */
+     
+    }
+    /* iPads (portrait) ----------- */
+     
+    @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+     
+    /* CSS KODLARI BURAYA */
+     
+    }
+    /* Desktops and laptops ----------- */
+     
+    @media only screen and (min-width : 1224px) {
+    /* CSS KODLARI BURAYA */
+     
+    }
+  
+     
+    @media only screen and (min-width : 1824px) {
+      
+    
+    }
+      
+    /* iPhone 5 (portrait & landscape)----------- */
+    @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+      
+    /* CSS KODLARI BURAYA */
+    }
+      
+    /* iPhone 5 (landscape)----------- */
+    @media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+      
+    /* CSS KODLARI BURAYA */
+    }
+      
+    /* iPhone 5 (portrait)----------- */
+    @media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+      
+    /* CSS KODLARI BURAYA */
+    } 

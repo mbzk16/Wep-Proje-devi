@@ -1,0 +1,66 @@
+
+/* 
+  ##Platform = Bilgisayarlar
+  ##Ekran = 1281px Yüksek Çözünürlüklü Bilgisayarlar için
+*/
+
+@media (min-width: 1281px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Platform = Laptoplar, Bilgisayarlar
+  ##Ekran = B/w 1025px - 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Platform = Tabletler, Ipadler (portrait)
+  ##Ekran = B/w 768px - 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Platform = Tabletler, Ipadler (landscape)
+  ##Ekran = B/w 768px - 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Platform = Düşük Çözünürlüklü Tabletler, Telefonlar (Landscape)
+  ##Ekran = B/w 481px - 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Platform = Akıllı Telefonların Çoğu (Portrait)
+  ##Ekran = B/w 320px - 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  //CSS
+  
+}
